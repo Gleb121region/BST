@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Gelog/CLionProjects/IDI/BinarySearchTree.hpp
+iostream
+-
+functional
+-
+
+C:/Users/Gelog/CLionProjects/IDI/main.cpp
+BinarySearchTree.hpp
+C:/Users/Gelog/CLionProjects/IDI/BinarySearchTree.hpp
+

@@ -1,0 +1,3 @@
+C:/Users/Gelog/CLionProjects/IDI/cmake-build-debug/CMakeFiles/IDI.dir
+C:/Users/Gelog/CLionProjects/IDI/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gelog/CLionProjects/IDI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
